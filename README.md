@@ -1,3 +1,6 @@
 # Three.js-Canvas-With-Flexbox
 
-A simple example on how to set the Three.js JavaScript library canvas inside a div with flexbox. Using only HTML, CSS and the Three.js WebGL Geometry (No Meshes) with animation.
+Example on how to set the Three.js JavaScript library canvas inside a div using HTML, CSS Flexbox and the Three.js WebGL Geometry (No Meshes).
+
+Result:
+https://happy-mahavira-4dc23b.netlify.com/
