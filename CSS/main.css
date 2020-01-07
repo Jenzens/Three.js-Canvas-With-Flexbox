@@ -1,0 +1,36 @@
+body {
+    margin:0;
+}
+
+.wrapper{
+    width: 100%;
+    min-height: 350px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: #4a4b4a;
+    background: -moz-linear-gradient(top,  #272624 2%, #6d93ac   100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #272624 2%,#6d93ac 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #272624 2%,#6d93ac  100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+#canvas-container {
+    width: 400px;
+    height: 400px;
+}
+
+.canvas-wrapper{
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.canvas-text-box{
+    width: 350px;
+    height: auto;
+    text-align: center;
+}
+
